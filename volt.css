@@ -1,0 +1,27 @@
+body{
+  background-color: lightgoldenrodyellow;
+}
+form{
+  background-color:orange;
+}
+input{
+  background-color:blue;
+}
+label{
+  background-color:brown;
+}
+textarea{
+  background-color:green;
+}
+button{
+  background-color:purple;
+}
+h1{
+  color:indigo;
+}
+p{
+  color:violet;
+}
+alert{
+  background-color:blue;
+}
